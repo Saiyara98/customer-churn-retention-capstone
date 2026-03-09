@@ -1,5 +1,3 @@
-# customer-churn-retention-capstone
-
 # Customer Churn Retention Capstone
 
 This project analyzes customer churn for a telecommunications company using machine learning.
